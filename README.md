@@ -12,10 +12,11 @@ NutriGuard eliminates dining confusion by providing instant, personalized menu r
 - Offline mode support
 
 ## Screenshots
-<img src="1. NutriGuard Landing Screen.png" width="400"> <img src="2. NutriGuard Dish Analysis Screen.png" width="400" >
+<img src="Img/1. NutriGuard Landing Screen.png" width="400"> <img src="Img/2. NutriGuard Dish Analysis Screen.png" width="400" >
+
 
 ## Demo Video
-[![NutriGuard Demo](1.png)](https://youtu.be/t6_xgYIgLrY)
+[![NutriGuard Demo](Img/1.png)](https://youtu.be/t6_xgYIgLrY)
 *Watch NutriGuard help navigate real restaurant menus*
 
 ---
